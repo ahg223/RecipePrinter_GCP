@@ -1,0 +1,17 @@
+gcloud auth application-default login
+
+Credentials saved to file: [/tmp/tmp.O92OnNIFme/application_default_credentials.json]
+
+export GOOGLE_APPLICATION_CREDENTIALS="/tmp/tmp.O92OnNIFme/application_default_credentials.json"
+
+For Video Intelligence
+
+gcloud iam service-accounts keys create ~/video_intelligence.json \
+      --iam-account 727485734432-compute@developer.gserviceaccount.com
+
+gcloud iam service-accounts keys create ~/storage_vision.json \
+      --iam-account vision@natural-broker-240414.iam.gserviceaccount.com
+
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/ahg2230/Authentication/video_intelligence.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/home/ahg2230/Authentication/storage_vision.json"
