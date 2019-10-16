@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8B6AC35A-82FC-486A-A38A-0A2667D7636A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B6AC35A-82FC-486A-A38A-0A2667D7636A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Midterm_OpenCV project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Midterm_OpenCV</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Midterm_OpenCV</string>
+			<key>timeStartedRecording</key>
+			<real>580612241.35330498</real>
+			<key>timeStoppedRecording</key>
+			<real>580612242.83859003</real>
+			<key>title</key>
+			<string>Build Midterm_OpenCV</string>
+			<key>uniqueIdentifier</key>
+			<string>8B6AC35A-82FC-486A-A38A-0A2667D7636A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
